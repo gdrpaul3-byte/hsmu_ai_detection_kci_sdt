@@ -3,8 +3,8 @@
 Analysis and figure-generation code for the manuscript:
 
 > **Age Differences in the Detection of AI-Generated Faces: Sensitivity Declines While the Response Criterion Remains Unbiased**
-> Sunwhi Kim (Hwaseong Medical Science University) and Sunyul Kim (Yonsei University)
-> Manuscript in Korean, currently under submission to the *Korean Journal of Cognitive and Biological Psychology* (한국심리학회지: 인지 및 생물).
+> Sunwhi Kim (Hwasung Medi-Science University) and Sunyul Kim (Yonsei University)
+> Manuscript in Korean, prepared for submission to the *Korean Journal of Cognitive and Biological Psychology* (한국심리학회지: 인지 및 생물).
 
 The study applies signal detection theory (SDT) to a public web experiment in which 1,667 adults (ages 20–69) judged whether a single portrait was a real photograph or an AI-generated re-creation of the same identity (ChatGPT-4o or Imagen 3; yes–no task).
 
@@ -98,11 +98,11 @@ python analysis/make_kci_fig1_design.py
 
 ## Citation
 
-The manuscript is under submission; until it is published, please cite the preprint reporting the experiment together with this repository:
+The manuscript is not yet published; until then, please cite the preprint reporting the experiment together with this repository:
 
 > Kim, S., & Kim, S. (2026). *Human factors in detecting AI-generated portraits: Age, sex, device, and confidence*. arXiv. https://arxiv.org/abs/2603.24048
 
-> Kim, S., & Kim, S. (2026). *Age differences in the detection of AI-generated faces: Sensitivity declines while the response criterion remains unbiased* [Manuscript submitted for publication, in Korean]. Korean Journal of Cognitive and Biological Psychology.
+> Kim, S., & Kim, S. (2026). *Age differences in the detection of AI-generated faces: Sensitivity declines while the response criterion remains unbiased* [Manuscript in preparation, in Korean]. Department of Bio-Healthcare, Hwasung Medi-Science University.
 
 Data: Kim & Kim (2026), *hsmu_ai_detection_public* v1.0.1, https://github.com/gdrpaul3-byte/hsmu_ai_detection_public
 
