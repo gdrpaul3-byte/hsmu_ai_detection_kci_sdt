@@ -127,7 +127,7 @@ def main():
     suffixes = ["", "_chatgpt", "_gemini"]
     for cx, sfx in zip(col_x, suffixes):
         thumb(fig, os.path.join(IMD, f"{BASE}{sfx}.png"), cx, row_y, tw, th)
-    bg.text(0.5, 0.567, "One example identity (identity-matched pair)",
+    bg.text(0.5, 0.567, "One example identity (identity-matched triplet)",
             ha="center", va="top", fontsize=7.8, color=MUTED)
 
     # ── B: session stage strip ────────────────────────────────────
